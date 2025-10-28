@@ -68,4 +68,4 @@ When I’m not coding, I love exploring new technologies, reading about AI ethic
 
 ---
 
-🌟 *"Code with curiosity, build with purpose."*  
+ *"Code with curiosity, build with purpose."*  
