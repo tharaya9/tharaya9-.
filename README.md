@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Tharaya Al Shukri**
 
-### **Full Stack Developer | Software Engineer **
+### Full Stack Developer | Software Engineer 
 
 ---
 
